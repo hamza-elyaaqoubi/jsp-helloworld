@@ -1,11 +1,3 @@
-Présentation
-=========
-
-Ce projet permet de se rappeler comment afficher un message "Say Hello with JSP!" en utilisant les JSP.
-
-
-
-
 Pré-requis
 ----
 - [maven] - Maven 3
