@@ -8,7 +8,7 @@ Ce projet permet de se rappeler comment afficher un message "Say Hello with JSP!
 
 Pré-requis
 ----
-- [maven] - Maven 
+- [maven] - Maven 3
 - [jboss-4.2.3] - Jboss 4.2 
 - [eclipse] - Eclipse 
 - Connaisance de base pour les technologies j2ee, et en particulier, JavaServer Pages JSP  
@@ -34,6 +34,6 @@ License
 Public
 
 
-[maven]:http://maven.apache.org/
+[maven]:http://maven.apache.org/docs/3.0.5/release-notes.html/
 [jboss-4.2.3]:http://sourceforge.net/projects/jboss/files/JBoss/JBoss-4.2.3.GA/
 [eclipse]:https://www.eclipse.org/downloads/
