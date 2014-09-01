@@ -1,12 +1,12 @@
-Dillinger
+Pr√©sentation
 =========
 
-Ce projet permet d'afficher pour la premiËre fois un message "Say Hello with JSP!"
+Ce projet permet d'afficher pour la premi√®re fois un message "Say Hello with JSP!"
 
 
 
 
-PrÈ-requis
+Pr√©-requis
 ----
 - [maven] - Maven 
 - Jboss 4.2
