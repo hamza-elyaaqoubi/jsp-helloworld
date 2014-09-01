@@ -34,6 +34,6 @@ License
 Public
 
 
-[maven]:http://maven.apache.org/docs/3.0.5/release-notes.html/
+[maven]:http://maven.apache.org/docs/3.0.5/release-notes.html
 [jboss-4.2.3]:http://sourceforge.net/projects/jboss/files/JBoss/JBoss-4.2.3.GA/
 [eclipse]:https://www.eclipse.org/downloads/
