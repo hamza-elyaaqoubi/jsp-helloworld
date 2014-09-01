@@ -1,7 +1,7 @@
 Présentation
 =========
 
-Ce projet permet d'afficher pour la première fois un message "Say Hello with JSP!"
+Ce projet permet d'afficher un message "Say Hello with JSP!" en utilisant les JSP.
 
 
 
@@ -11,7 +11,7 @@ Pré-requis
 - [maven] - Maven 
 - Jboss 4.2
 - Eclipse/Intellij
-- Connaisance de base pour les technologies j2ee en particulier, JavaServer Pages JSP  
+- Connaisance de base pour les technologies j2ee, et en particulier, JavaServer Pages JSP  
 
 
 Version
