@@ -31,7 +31,7 @@ git clone git@github.com:hamzaCM/jsp-helloworld.git
 License
 ----
 
-Private
+Public
 
 
 [maven]:http://maven.apache.org/
